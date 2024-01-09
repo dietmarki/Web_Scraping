@@ -4,7 +4,6 @@ working on different ways of web_scraping
 
     --> HTML_Parser_JobOffer.ipynb,
         HTML_Parser_Tennis_Sports_Ranking.ipynb,
-        HTML_Parser_Tennis_Sports_Ranking_2Tables.ipynb
-           --> getting csv-files updated... 
+        HTML_Parser_Tennis_Sports_Ranking_2Tables.ipynb --> getting csv-files updated... 
 
 ...to be continued
