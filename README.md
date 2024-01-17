@@ -10,4 +10,6 @@ working on different ways of web_scraping
 
     --> API_FamousQuotes.ipynb:     csv-files updated...
 
+    --> API_Weather_Daily_Hourly.ipynb:     csv-files updated...
+
 ...to be continued
