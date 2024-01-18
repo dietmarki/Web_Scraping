@@ -1,0 +1,101 @@
+Ranking_Men,Ranking_Change_Men,Players_Name_Men,Age_Men,Points_Men,Tournaments_Men,Ranking_Women,Ranking_Change_Women,Players_Name_Women,Age_Women,Points_Women,Tournaments_Women
+1,0, Novak Djokovic,36,11055,19,1,0, Iga Swiatek,22,9880,19
+2,0, Carlos Alcaraz,20,8855,18,2,0, Aryna Sabalenka,25,8905,16
+3,0, Daniil Medvedev,27,7555,21,3,1, Elena Rybakina,24,6811,18
+4,0, Jannik Sinner,22,6490,22,4,-1, Coco Gauff,19,6660,19
+5,0, Andrey Rublev,26,5010,25,5,0, Jessica Pegula,29,5905,20
+6,1, Alexander Zverev,26,4275,27,6,0, Ons Jabeur,29,4076,20
+7,-1, Stefanos Tsitsipas,25,4025,24,7,0, Marketa Vondrousova,24,3966,16
+8,0, Holger Rune,20,3815,23,8,0, Maria Sakkari,28,3770,24
+9,0, Hubert Hurkacz,26,3320,24,9,0, Karolina Muchova,27,3590,14
+10,2, Alex de Minaur,24,2950,25,10,0, Barbora Krejcikova,28,2945,21
+11,0, Casper Ruud,25,2910,24,11,0, Beatriz Haddad Maia,27,2920,23
+12,-2, Taylor Fritz,26,2840,26,12,0, Jelena Ostapenko,26,2883,23
+13,1, Grigor Dimitrov,32,2775,23,13,1, Qinwen Zheng,21,2790,23
+14,-1, Tommy Paul,26,2665,26,14,1, Liudmila Samsonova,25,2760,24
+15,0, Karen Khachanov,27,2475,22,15,3, Daria Kasatkina,26,2758,25
+16,1, Ben Shelton,21,2145,27,16,0, Veronika Kudermetova,26,2680,25
+17,-1, Frances Tiafoe,25,2100,22,17,0, Petra Kvitova,33,2635,16
+18,1, Nicolas Jarry,28,1830,22,18,-5, Madison Keys,28,2608,17
+19,-1, Cameron Norrie,28,1810,25,19,0, Belinda Bencic,26,2547,16
+20,2, Adrian Mannarino,35,1765,31,20,0, Caroline Garcia,30,2330,27
+21,-1, Ugo Humbert,25,1765,29,21,0, Ekaterina Alexandrova,29,2075,24
+22,-1, Francisco Cerundolo,25,1760,26,22,1, Victoria Azarenka,34,2011,21
+23,3, Alejandro Davidovich Fokina,24,1530,26,23,2, Elina Svitolina,29,1972,14
+24,1, JanLennard Struff,33,1511,27,24,-2, Magda Linette,31,1896,24
+25,2, Lorenzo Musetti,21,1435,27,25,-1, Donna Vekic,27,1865,21
+26,2, Sebastian Baez,23,1435,30,26,0, Sorana Cirstea,33,1746,23
+27,2, Felix AugerAliassime,23,1425,20,27,1, Anastasia Potapova,22,1706,21
+28,-5, Tallon Griekspoor,27,1410,27,28,-1, Anhelina Kalinina,26,1630,26
+29,-5, Sebastian Korda,23,1380,19,29,1, Elise Mertens,28,1551,23
+30,0, Tomas Martin Etcheverry,24,1375,30,30,-1, Jasmine Paolini,28,1530,29
+31,1, Alexander Bublik,26,1369,30,31,0, Emma Navarro,22,1530,30
+32,-1, Jiri Lehecka,22,1337,27,32,0, Lesia Tsurenko,34,1452,19
+33,0, Laslo Djere,28,1285,26,33,0, Lin Zhu,29,1420,25
+34,0, Christopher Eubanks,27,1235,26,34,1, Xinyu Wang,22,1395,24
+35,1, Arthur Fils,19,1208,24,35,1, Marie Bouzkova,25,1382,24
+36,3, Roman Safiullin,26,1190,22,36,-2, Leylah Fernandez,21,1355,25
+37,6, Sebastian Ofner,27,1132,31,37,2, Karolina Pliskova,31,1346,21
+38,-3, Aslan Karatsev,30,1103,20,38,-1, Sofia Kenin,25,1305,20
+39,-2, Borna Coric,27,1100,22,39,3, Varvara Gracheva,23,1290,27
+40,-2, Daniel Evans,33,1096,26,40,1, Petra Martic,32,1283,20
+41,3, Matteo Arnaldi,22,1062,25,41,-3, Marta Kostyuk,21,1223,22
+42,-1, Mackenzie McDonald,28,1055,29,42,1, Tatjana Maria,36,1215,32
+43,-3, Alexei Popyrin,24,1052,26,43,1, Sloane Stephens,30,1202,21
+44,-2, Andy Murray,36,1050,24,44,1, Caroline Dolehide,25,1193,26
+45,0, Max Purcell,25,1006,30,45,2, Elisabetta Cocciaretto,22,1179,20
+46,0, Lorenzo Sonego,28,990,28,46,2, Anna Blinkova,25,1170,28
+47,8, Jordan Thompson,29,982,28,47,11, Mirra Andreeva,16,1168,12
+48,0, Alexander Shevchenko,23,961,30,48,1, Peyton Stearns,22,1168,25
+49,2, Yannick Hanfmann,32,929,26,49,1, Katerina Siniakova,27,1150,21
+50,19, Emil Ruusuvuori,24,921,28,50,1, Arantxa Rus,33,1149,28
+51,6, Roberto Bautista Agut,35,916,27,51,-11, Linda Noskova,19,1143,22
+52,0, Dusan Lajovic,33,914,23,52,4, Clara Burel,22,1140,21
+53,5, Zhizhen Zhang,27,911,24,53,0, Sara Sorribes Tormo,27,1126,16
+54,-1, JJ Wolf,25,910,26,54,0, Danielle Collins,30,1121,19
+55,-1, Miomir Kecmanovic,24,910,31,55,0, Camila Giorgi,32,1120,20
+56,-7, Stan Wawrinka,38,907,21,56,-4, Lucia Bronzetti,25,1099,30
+57,-1, Daniel Altmaier,25,906,28,57,0, Katie Boulter,27,1085,22
+58,-11, Yoshihito Nishioka,28,865,21,58,1, Mayar Sherif,27,1053,26
+59,-9, Botic van de Zandschulp,28,865,24,59,1, Anastasia Pavlyuchenkova,32,1046,18
+60,0, Marcos Giron,30,860,28,60,-14, Martina Trevisan,30,1045,23
+61,16, Dominik Koepfer,29,858,22,61,0, Cristina Bucsa,26,1035,30
+62,-1, Jack Draper,22,836,18,62,9, Xiyu Wang,22,1034,26
+63,-1, Aleksandar Vukic,27,835,30,63,-1, Nadia Podoroska,26,1009,29
+64,3, Pavel Kotov,25,835,23,64,-1, Yulia Putintseva,29,1002,26
+65,-1, Fabian Marozsan,24,805,25,65,-1, Greet Minnen,26,999,21
+66,0, Nuno Borges,26,799,27,66,0, Ana Bogdan,31,956,23
+67,-4, Roberto Carballes Baena,30,796,30,67,6, Anna Karolina Schmiedlova,29,949,23
+68,-3, Thanasi Kokkinakis,27,792,24,68,-1, Yanina Wickmayer,34,949,21
+69,-10, Marton Fucsovics,31,782,22,69,0, Bernarda Pera,29,943,23
+70,1, Rinky Hijikata,22,782,27,70,6, Diane Parry,21,943,37
+71,-3, Christopher O’Connell,29,780,31,71,3, Elina Avanesyan,21,939,23
+72,-2, Pedro Cachin,28,763,30,72,-2, Magdalena Frech,26,937,29
+73,5, Tomas Machac,23,753,26,73,4, Yue Yuan,25,925,30
+74,1, Taro Daniel,30,739,26,74,-6, Paula Badosa,26,922,13
+75,-1, Gael Monfils,37,737,18,75,5, Anna Kalinskaya,25,918,21
+76,0, Richard Gasquet,37,735,33,76,-4, Lauren Davis,30,906,21
+77,3, Bernabe Zapata Miralles,26,715,25,77,-2, Viktoriya Tomova,28,906,29
+78,1, Thiago Seyboth Wild,23,714,23,78,0, Ashlyn Krueger,19,896,28
+79,2, Alexandre Muller,26,711,31,79,2, Camila Osorio,22,876,21
+80,3, Juan Pablo Varillas,28,709,25,80,2, Taylor Townsend,27,870,18
+81,3, Gregoire Barrere,29,708,31,81,2, Tamara Korpatsch,28,847,29
+82,3, Alejandro Tabilo,26,707,25,82,2, Alycia Parks,23,838,28
+83,3, Jaume Munar,26,706,29,83,3, Aliaksandra Sasnovich,29,831,26
+84,3, Constant Lestienne,31,699,33,84,3, Jaqueline  Cristian,25,831,30
+85,3, Federico Coria,31,694,29,85,3, Linda Fruhvirtova,18,829,28
+86,3, Albert RamosVinolas,35,688,34,86,3, Kayla Day,24,825,26
+87,3, Luca Van Assche,19,687,26,87,3, Zhuoxuan Bai,21,820,24
+88,-6, Cristian Garin,27,680,22,88,3, Emina Bektas,30,820,23
+89,4, Daniel Elahi Galan,27,676,30,89,3, Laura Siegemund,35,814,16
+90,4, Dominic Stricker,21,673,21,90,-5, Viktorija Golubic,31,812,22
+91,-19, Borna Gojo,25,664,21,91,3, Oceane Dodin,27,810,32
+92,5, Alex Michelsen,19,659,26,92,1, Nao Hibino,29,808,27
+93,2, Facundo Diaz Acosta,23,655,26,93,3, Kamilla Rakhimova,22,793,29
+94,4, Dominic Thiem,30,654,28,94,-29, Rebeka Masarova,24,786,22
+95,8, Tomas Barrios Vera,26,630,29,95,2, Diana Shnaider,19,785,21
+96,20, James Duckworth,31,628,26,96,2, Dayana Yastremska,23,777,29
+97,-1, Arthur Rinderknech,28,626,28,97,5, Yafan Wang,29,771,21
+98,-7, Maximilian Marterer,28,626,21,98,3, Renata Zarazua,26,764,33
+99,5, Hugo Gaston,23,626,29,99,4, Tamara Zidansek,26,755,23
+100,8, Liam Broady,30,621,27,100,7, Clara Tauson,21,749,22
