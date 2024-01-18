@@ -1,6 +1,6 @@
 working on different ways of web_scraping
 
-1. HTML Parsers
+1. HTML Parser
 
     --> HTML_Parser_JobOffer.ipynb,
    
